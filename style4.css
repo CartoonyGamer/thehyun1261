@@ -1,0 +1,203 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: #e9dccd;
+}
+
+.nav{
+	background-color:#36384c;
+	height: 100px;
+}
+
+.content, .footer{
+	background-color: #e9dccd;
+	height: 500px;
+	position: relative;
+}
+
+.content{
+	background-image: url("coffee-983955_1920.jpg");
+	background-size: cover;
+	background-position: center;
+	background-blend-mode: darken;
+	height: 250px;
+	text-align: center;
+}
+
+.nav ul{
+	float: right;
+	padding-top: 40px;
+}
+
+.nav li{
+	display: inline;
+	padding: 0 50px;
+	font-size: 20px;
+}
+
+.color1{
+	color: aliceblue;
+}
+
+h1{
+	font-size: 100px;
+	padding-top: 40px;
+}
+
+h2{
+
+}
+
+.nav img{
+	float: left;
+}
+
+h3{
+	font-size: 40px;
+	margin-top: 50px;
+	padding-bottom: 10px;
+	
+}
+
+p{
+	font-size: 20px;
+	margin-top: 40px;
+	
+}
+
+.anh1{
+	background-image: url("coffee-1580595_640.jpg");
+}
+
+.anh2{
+	background-image: url("image2.jpg");
+}
+
+.anh3{
+	background-image: url("image3.jpg");
+}
+
+.anh4{
+	background-image: url("image4.jpg");
+}
+
+.itemanh{
+	width: 20%;
+	height: 100%;
+}
+
+.about img{
+	height: 200px;
+	width: 20%;
+	position: relative;
+}
+
+.bsthinhanh{
+	text-align: center;
+	margin-top: 20px;
+	
+}
+
+.menu{
+	background-color: #36384c;
+	position: relative;
+	color: white;
+	padding-top: 5%;
+}
+
+.menu p{
+	padding: 3% 0;
+}
+
+.drinktitle{
+	color:aliceblue;
+}
+
+.foodtitle{
+	color:aliceblue;
+}
+
+.content{
+	padding: 0 20%;
+}
+
+.about img{
+	height: 400px;
+	position: relative;
+}
+
+.chuale2ben{
+	padding: 0 20%;
+}
+
+.menu .drink{
+	width: 50%;
+	float: left;
+	text-align: center;
+	position: relative;
+}
+
+.menu .drink img{
+	height: 220px;
+}
+
+.menu .food img{
+	height: 220px;
+}
+
+.menu .food{
+	text-align:center;
+	position: relative;
+}
+
+.locationhour img{
+	height: 270px;
+	float: left;
+}
+
+.locationhour .location{
+	position: relative;
+}
+
+.hourtitle{
+	font-size: 30px;
+	position: relative;
+	
+}
+
+.hoursavail{
+	position: relative;
+	font-size: 20px;
+	
+}
+
+.locationhour{
+	height: 400px;
+}
+
+.locationhour h4,h5{
+	padding: 10px 0 0 20px;
+}
+
+.leftphoto{
+	background-image: url("locationofcentralcoffee.png");
+	background-size: cover;
+	height: 300px;
+	float: left;
+	width: 400px;
+}
+
+.hour{
+	width: 40%;
+	float: right;
+}
+
+.footer{
+	font-size: 25px;
+	text-align: center;
+}

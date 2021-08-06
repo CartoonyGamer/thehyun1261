@@ -1,0 +1,89 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Central Coffee</title>
+       <link href="style4.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div class="container">
+		
+		<div class="nav">
+			<img src="logo-central-coffee.png" alt="logo thuong hieu">
+			<ul>
+				<li class="color1">About</li>
+				<li class="color1">Menu</li>
+				<li class="color1">Location</li>
+			</ul>
+		</div>
+		
+		<div class="content">
+			<h1 class="color1">Central Coffee</h1>
+			<h2 class="color1">Bespoke organically-sourced coffee</h2>
+		</div>
+		
+		<div class="about chuale2ben">
+			<h3>About</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis sagittis urna, a fermentum mauris. Mauris sagittis eu urna at sollicitudin. Sed et dui accumsan, vulputate dui ut, fringilla tellus. Vivamus a ex commodo, vulputate metus gravida, congue arcu. Fusce vehicula laoreet lorem vel lacinia. Etiam ac erat turpis. Morbi nec urna aliquet, placerat nisl ac, venenatis justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+		</div>
+		
+		    <div class="bsthinhanh">
+		<img src ="coffee-1580595_640.jpg" alt="anh1" width="25%">
+		<img src = "image2.jpg" alt="anh2" width="20%">
+		<img src = "image3.jpg" alt="anh3" width="20%">
+		<img src = "image4.jpg" alt="anh4" width="20%">
+			</div>
+		
+		<div class="menu chuale2ben">
+			<h3>Menu</h3>
+			<p class="chuale2ben">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis sagittis urna, a fermentum mauris. Mauris sagittis eu urna at sollicitudin. Sed et dui accumsan, vulputate dui ut, fringilla tellus. Vivamus a ex commodo, vulputate metus gravida, congue arcu. Fusce vehicula laoreet lorem vel lacinia. Etiam ac erat turpis. Morbi nec urna aliquet, placerat nisl ac, venenatis justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+			
+			<div class="drink">
+				
+				<h4 class="drinktitle">DRINKS</h4>
+				<img src="drinks.jpg" alt="drinks">
+				<h4>La Catalina (Colombia)</h4>
+				<h4>Guarumales (Ecuador)</h4>
+				<h4>Rukondo (Rwanda)</h4>
+				<h4>Peppermint Tea</h4>
+				<h4>Black tea</h4>
+			</div>
+			
+			<div class="food">
+			    <h4 class="foodtitle">FOOD</h4>
+			    <img src="food.jpg" alt="food">
+			    <h4>Frittata (Herb and Veggie, Italian, Corned Beef)</h4>
+			    <h4>Breakfast sandwich</h4>
+			    <h4>Cobb salad</h4>
+			    <h4>Various baked goods</h4>
+				<h4>Black tea</h4>
+		    </div>
+				
+		</div>
+		
+		<div class="locationhour chuale2ben">
+				<div class="location">
+					<div>
+					<h3 class="locationtitle">Location</h3>
+					<div class="leftphoto">
+					     
+					</div>
+					</div>
+					
+			    <div class="hour">
+					<h4 class="hourtitle">HOURS</h4>
+					<h5 class="hoursavail">Mon-Thurs -- 7am - 8pm</h5>
+					<h5 class="hoursavail">Fri-Sun -- 8am - 10pm</h5>
+				</div>	
+			    </div>
+			    
+			</div>
+		
+		<div class="footer">
+				<h6 class="yearopen">© 2018 Central Coffee</h6>
+		</div>
+	
+	</div>
+</body>
+</html>
